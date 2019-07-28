@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.meta_quotes.ta.tests.EconomicCalendar" skipped="0" tests="1" time="33.7" timestamp="2019-07-28 02:12:53"><testcase classname="com.meta_quotes.ta.tests.EconomicCalendar" name="Should see event based on chosen criteria then shortens event link"/></testsuite>

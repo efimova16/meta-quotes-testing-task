@@ -1,0 +1,5 @@
+com\meta_quotes\ta\pages\CalendarContentPanel.class
+com\meta_quotes\ta\pages\EventContentPanel.class
+com\meta_quotes\ta\pages\CalendarControlPanel.class
+com\meta_quotes\ta\driver\CustomChromeDriver.class
+com\meta_quotes\ta\pages\CalendarPage.class
